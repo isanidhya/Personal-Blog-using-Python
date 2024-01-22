@@ -8,8 +8,6 @@ The Personal Blog with Flask is a web application that allows users to create, v
 - **app/models.py**: Defines the data models, including the User and Post classes.
 - **app/routes.py**: Implements the routes and views for the application.
 - **app/templates/**: Contains HTML templates for rendering pages.
-- **venv/**: Virtual environment folder for Python dependencies.
-- **.gitignore**: Specifies files and folders to be ignored by version control.
 - **config.py**: Configuration file for the Flask application.
 - **run.py**: Script to run the Flask application.
 
