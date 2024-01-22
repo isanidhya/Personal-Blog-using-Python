@@ -20,7 +20,7 @@ The Personal Blog with Flask is a web application that allows users to create, v
    - Activate the virtual environment.
 
 2. **Install Dependencies**:
-   - Install required Python packages using `pip install -r requirements.txt`.
+   - Install required Python packages using `pip install`.
 
 3. **Database Setup**:
    - The SQLite database will be created automatically when the application runs.
@@ -54,7 +54,3 @@ Feel free to customize and enhance the project:
 ## Contributing
 
 Contributions are welcome! If you find issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
